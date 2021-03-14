@@ -55,7 +55,7 @@ body {
   text-shadow: -8px 0px 0px #fff;
 }
 
-.notfound h3 {
+.notfound .notfound-404 h3 {
   font-family: 'Cabin', sans-serif;
   position: relative;
   font-size: 16px;
@@ -75,6 +75,17 @@ body {
   color: #000;
   margin-top: 0px;
   margin-bottom: 25px;
+}
+
+.notfound h3 {
+  font-family: 'Cabin', sans-serif;
+  position: relative;
+  font-size: 16px;
+  font-weight: 400;
+  color: #262626;
+  margin: 0px;
+  letter-spacing: 3px;
+  padding-left: 6px;
 }
 
 @media only screen and (max-width: 767px) {
