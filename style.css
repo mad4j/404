@@ -61,7 +61,7 @@ body {
   font-size: 16px;
   font-weight: 700;
   text-transform: uppercase;
-  color: #1F2833;
+  color: #4056A1;
   margin: 0px;
   letter-spacing: 3px;
   padding-left: 6px;
@@ -72,17 +72,17 @@ body {
   font-size: 20px;
   font-weight: 400;
   text-transform: uppercase;
-  color: #1F2833;
+  color: #4056A1;
   margin-top: 0px;
   margin-bottom: 25px;
 }
 
-.notfound h3 {
+.notfound .footer h3 {
   font-family: 'Montserrat', sans-serif;
   position: relative;
   font-size: 16px;
   font-weight: 400;
-  color: #1F2833;
+  color: #4056A1;
   margin: 0px;
   letter-spacing: 3px;
   padding-left: 6px;
